@@ -1,41 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Felipa&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Instrument+Serif&family=Ma+Shan+Zheng&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Playfair+Display&family=Poppins:wght@500&display=swap')
+
 /* Other Styling Started  */
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-.body-bg{
+.body-bg {
     background-color: #e9e8e8;
 }
+
+.merriweather-regular-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
 /* Other Styling Ended  */
 
 /* Color Classes Started  */
-.brown{
+.brown {
     color: #812121;
 }
+
 /* Color Classes Ended  */
 
 /* Navbar Styling Started  */
-.main-logo{
+.main-logo {
     width: 50px;
 }
-.navbar-btn{
+
+.navbar-btn {
     border-radius: 20px;
     border: 1px solid #ffffff;
 }
-.btn-1{
+
+.btn-1 {
     background-color: #e73535;
 }
-.btn-2{
+
+.btn-2 {
     background-color: #812121;
 }
+
 /* Navbar Styling Ended  */
 
 /* Welcome Styling Stated  */
-.w-para{
+.w-para {
     font-size: 65px;
 }
-.w-btn{
-    
+
+.w-btn-1 {
+    border: 1px solid #ffffff;
+    border-radius: 30px;
+    background-color: #e73535;
+}
+
+.w-btn-2 {
+    border: 1px solid #e73535;
+    border-radius: 30px;
+    color: #e73535;
+}
+
+.w-img{
+    width: 750px;
 }
 /* Welcome Styling Ended  */
+
+/* Footer Styling Started  */
+.footer-img{
+    width: 20px;
+    font-size: 12px;
+}
+/* Footer Styling Ended  */

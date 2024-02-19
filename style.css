@@ -1,0 +1,41 @@
+/* Other Styling Started  */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body-bg{
+    background-color: #e9e8e8;
+}
+/* Other Styling Ended  */
+
+/* Color Classes Started  */
+.brown{
+    color: #812121;
+}
+/* Color Classes Ended  */
+
+/* Navbar Styling Started  */
+.main-logo{
+    width: 50px;
+}
+.navbar-btn{
+    border-radius: 20px;
+    border: 1px solid #ffffff;
+}
+.btn-1{
+    background-color: #e73535;
+}
+.btn-2{
+    background-color: #812121;
+}
+/* Navbar Styling Ended  */
+
+/* Welcome Styling Stated  */
+.w-para{
+    font-size: 65px;
+}
+.w-btn{
+    
+}
+/* Welcome Styling Ended  */
